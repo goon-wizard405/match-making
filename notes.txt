@@ -1,0 +1,8 @@
+-packages-
+pdflatex (something texlive)
+texlive-fonts-recommended
+texlive-latex-extra
+texlive-science
+
+-compile-
+pdflatex paper.tex
